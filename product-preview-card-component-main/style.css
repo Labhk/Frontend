@@ -1,0 +1,18 @@
+body{
+    background-color: #f3eae3;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.main{
+    /* justify-content: center;
+    align-items: center; */
+    border: 10px black;
+    max-height: 400px;
+    width: 60%;
+}
