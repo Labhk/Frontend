@@ -1,0 +1,58 @@
+
+   .site-header {
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    display: flex;
+    padding: 18px;
+    padding-left: 40px;
+  }
+  
+  .logo {
+    padding-right: 25px;
+  }
+  
+  .site-nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between; 
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000000;
+    padding: 20px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 1.6rem;
+  }
+  
+  .active a {
+    color: #ff764d;
+    padding-right: 30rem;
+  }
+  
+  .live a {
+    color: #0000ff;
+  }
+  
+  .login a {
+    color: #000000;
+    font-size: 1.2rem;
+  }
+
+hr{
+    border-top: 2px solid #000000;
+    border-color: #eeeeee;
+}
+  
+.sub-header ul {
+    padding-left: 35px;
+    padding-top: 15px;
+    list-style: none;
+    display: flex;
+  }
+
+
+  .sub-header ul li a{
+    font-size: 1.3rem;
+  }

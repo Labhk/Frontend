@@ -1,0 +1,39 @@
+.music{
+    background: linear-gradient(to right, white 40%, #fbffa7 40%);
+    height: 1100px;
+
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img1{
+    height: 770px;
+    padding-left: 80px;
+}
+
+.img2{
+    height: 500px;
+}
+
+.it .text{
+    padding-top: 120px;
+    font-size: 2.4rem;
+    color: black;
+    font-weight: 550;
+    width: 46%;
+    text-align: justify;
+    line-height: 4rem;
+}
+
+
+.it .sub-text{
+    padding-top: 30px;
+    font-size: 1.5rem;
+    color: black;
+    width: 46%;
+    text-align: justify;
+    line-height: 2.6rem;
+    padding-bottom: 120px;
+}
